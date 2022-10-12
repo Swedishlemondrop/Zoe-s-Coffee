@@ -45,8 +45,8 @@ a:link,a:active,a:visited,a:hover {
 
 .zoeimg{
     position: absolute;
-    width: 778px;
-    height: 526px;
+    width: 50%;
+    height: 65%;
     left: 8%;
     top: 25%;
     display:inline-flex;
